@@ -62,7 +62,7 @@ const Index = () => {
                 <Icon name="Palette" size={24} className="text-white" />
               </div>
               <h1 className="text-2xl font-bold bg-gradient-to-r from-coral to-turquoise bg-clip-text text-transparent">
-                vivangelduuust
+                vivangelduuust-castom
               </h1>
             </div>
             <nav className="hidden md:flex space-x-8">
@@ -304,7 +304,7 @@ const Index = () => {
                 <Icon name="Palette" size={18} className="text-white" />
               </div>
               <h4 className="text-xl font-bold bg-gradient-to-r from-coral to-turquoise bg-clip-text text-transparent">
-                vivangelduuust
+                vivangelduuust-castom
               </h4>
             </div>
             <p className="text-gray-400 mb-6">Творческий дизайнер • Создаю уникальные визуальные решения</p>
